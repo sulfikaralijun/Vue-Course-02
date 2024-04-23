@@ -5,7 +5,7 @@
 
 <template>
   <div>
-    <p>Double: {{ count.doubleCount }}</p>
+    <p>Double Count: {{ count.doubleCount }}</p>
   
   </div>
 </template>

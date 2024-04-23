@@ -8,7 +8,7 @@
 <template>
   <div class="about">
     <h1>This is an about page</h1>
-    <p>{{ count.count }}</p>
+    <p>Single Count: {{ count.count }}</p>
     <button @click="count.increment()">Single</button>
     <Result/>
   </div>
